@@ -2,3 +2,5 @@ Ho test file
 Added version 1
 Updated in Feature branch
 Merge testing froom feature
+
+Squash testing
