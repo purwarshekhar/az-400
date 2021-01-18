@@ -13,6 +13,7 @@ namespace SampleWebAppPipeline
     {
         public static void Main(string[] args)
         {
+            //added test
             CreateHostBuilder(args).Build().Run();
         }
 
