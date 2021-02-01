@@ -32,7 +32,7 @@ namespace SampleWebAppPipeline
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello World!");
+                    await context.Response.WriteAsync("Hello World tested through Azure pipeline contineous delivery !");
                 });
             });
         }
